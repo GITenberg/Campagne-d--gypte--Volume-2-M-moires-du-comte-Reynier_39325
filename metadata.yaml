@@ -1,0 +1,45 @@
+_repo: Campagne-d--gypte--Volume-2-M-moires-du-comte-Reynier_39325
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Langlois, Isidore
+    gutenberg_agent_id: '39633'
+    url: http://www.gutenberg.org/2009/agents/39633
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Reynier, Jean-Louis-Ebenézer
+    alias: Reynier, Jean-Louis-Ebenezer
+    birthdate: 1771
+    deathdate: 1814
+    gutenberg_agent_id: '39967'
+    url: http://www.gutenberg.org/2009/agents/39967
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Reynier
+  - agent_name: Berthier, Louis-Alexandre
+    aliases:
+    - Berthier, Gen. (Louis-Alexandre)
+    - Berthier, Alexandre
+    birthdate: 1753
+    deathdate: 1815
+    gutenberg_agent_id: '39631'
+    url: http://www.gutenberg.org/2009/agents/39631
+    wikipedia: https://fr.wikipedia.org/wiki/Louis-Alexandre_Berthier
+description: 'Part 1: #38737'
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2012-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39325'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcsh 'Egypt -- History -- French occupation, 1798-1801'
+- !lcsh 'Napoleonic Wars, 1800-1815'
+- !lcc 'DC'
+title: Mémoires du comte Reynier ... Campagne d'Égypte, deuxième partie
+url: http://www.gutenberg.org/ebooks/39325
