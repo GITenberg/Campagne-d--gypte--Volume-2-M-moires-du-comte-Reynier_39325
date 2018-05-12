@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39631
     wikipedia: https://fr.wikipedia.org/wiki/Louis-Alexandre_Berthier
 description: 'Part 1: #38737'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39325#Campagne-d--gypte--Volume-2-M-moires-du-comte-Reynier
 gutenberg_bookshelf: FR Guerres
 gutenberg_issued: '2012-04-01'
 gutenberg_type: Text
